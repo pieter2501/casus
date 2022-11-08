@@ -1,0 +1,119 @@
+@Book{72tools,
+  author    = {James Cadle and Debra Paul and Paul Turner},
+  date      = {2010},
+  title     = {Business Analysis Techniques - 72 Essential Tools for Success},
+  isbn      = {978-1-906124-23-6},
+  pagetotal = {279},
+  publisher = {British Informatics Society Ltd},
+}
+
+@Article{bang,
+  author  = {Kazi Saiful Hoque},
+  date    = {2021-06-14},
+  title   = {A brief History of Business Analysis},
+  url     = {https://bangladesh.iiba.org/news/brief-history-business-analysis},
+  urldate = {2022-11-03},
+}
+
+@Article{step,
+  author  = {Stepstone},
+  title   = {Bedrijfsanalist lonen in België},
+  url     = {https://www.stepstone.be/salaris/Bedrijfsanalist.html},
+  urldate = {2022-11-03},
+}
+
+@Article{howmuch,
+  author  = {Glassdoor},
+  date    = {2021-12-13},
+  title   = {How much does a Business Analyst make?},
+  url     = {https://www.glassdoor.com/Salaries/business-analyst-salary-SRCH_KO0,16.htm},
+  urldate = {2022-11-03},
+}
+
+@Article{bac2,
+  author  = {{Best Accredited Colleges}},
+  date    = {2021-10-20},
+  title   = {Alternative Careers for Business Analysts},
+  url     = {https://bestaccreditedcolleges.org/articles/alternative-careers-for-business-analysts.html},
+  urldate = {2022-11-03},
+}
+
+@Article{bac1,
+  author  = {{Best Accredited Colleges}},
+  title   = {What jobs are similar to business analysts?},
+  url     = {https://bestaccreditedcolleges.org/articles/careers-and-education/what-jobs-are-similar-to-business-analysts.html},
+  urldate = {2022-11-03},
+}
+
+@Book{artagile,
+  author    = {James Shore and Diana Larsen and Gitte Klitgaard and Shane Warden},
+  date      = {2021},
+  title     = {The Art of Agile Development (2nd edition)},
+  isbn      = {9781492080695},
+  pagetotal = {540},
+}
+
+@Article{devba,
+  author  = {Kevin Ang Qi Ye},
+  date    = {2016-11-28},
+  title   = {Why Developers Hate BAs and What to Do About It},
+  url     = {https://kevin-moses-ang.medium.com/why-are-business-analysts-so-irritating-dedb0c0124d0},
+  urldate = {2022-11-07},
+}
+
+@Article{stats,
+  author  = {James Anthony},
+  date    = {2022-01-14},
+  title   = {70 Relevant Analytics Statistics: 2021/2022},
+  url     = {https://financesonline.com/relevant-analytics-statistics/},
+  urldate = {2022-11-07},
+}
+
+@Article{agilestats,
+  author  = {Ana Djurovic},
+  date    = {2022-01-13},
+  title   = {20+ Astonishing Agile Adoption Statistics for 2022},
+  url     = {https://goremotely.net/blog/agile-adoption/},
+  urldate = {2022-11-07},
+}
+
+@Article{agilebado,
+  author  = {Simplilearn},
+  date    = {2022-11-04},
+  title   = {What does a Agile Business Analyst do: Definition, Skills and Role},
+  url     = {https://www.simplilearn.com/agile-business-analyst-article},
+  urldate = {2022-11-08},
+}
+
+@Article{nicole,
+  author  = {Nicole de Swart},
+  date    = {2021-10-20},
+  title   = {Je rol als analist in scrum: 6 opties},
+  url     = {https://www.reaco.nl/blog/je-rol-als-analist-in-agile-6-opties/},
+  urldate = {2022-11-08},
+}
+
+@Report{indian,
+  author      = {L N Bhagat and S C Gupta and S K Singh and Ramakant Agrawal and Indranil Bose and Ramashish Purvey},
+  date        = {2018-06-05},
+  institution = {ARISCOM},
+  title       = {Journal of Management},
+  type        = {resreport},
+  isrn        = {2581-9631},
+  pages       = {70},
+  pagetotal   = {84},
+}
+
+@Article{,
+  author  = {Roman Pichler},
+  url     = {https://www.modernanalyst.com/Resources/Articles/tabid/115/articleType/ArticleView/ArticleID/1302/PageID/1308/Default.aspx},
+  urldate = {2022-11-08},
+}
+
+@Comment{jabref-meta: databaseType:biblatex;}
+
+@Comment{jabref-meta: grouping:
+0 AllEntriesGroup:;
+1 StaticGroup:Eerste poging RM\;0\;1\;0x8a8a8aff\;\;\;;
+1 StaticGroup:Tweede poging RM\;0\;1\;0x8a8a8aff\;\;\;;
+}

@@ -1,0 +1,11 @@
+\babel@toc {dutch}{}\relax 
+\contentsline {section}{\numberline {1}Inleiding}{1}{section.1}%
+\contentsline {section}{\numberline {2}Overzicht literatuur}{2}{section.2}%
+\contentsline {section}{\numberline {3}Interviews}{3}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Algemene vragenlijst}{3}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Dhr. Wim Luyckx (Colruyt Groep)}{4}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Dhr./mevr. x (y)}{4}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Dhr./mevr. x (y)}{4}{subsection.3.4}%
+\contentsline {section}{\numberline {4}Conclusies}{5}{section.4}%
+\contentsline {section}{Referenties}{5}{section*.3}%
+\contentsfinish 

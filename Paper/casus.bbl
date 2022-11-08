@@ -1,0 +1,575 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{apa/global//global/global}
+    \entry{stats}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=96f39277297b238934f2a89ddfa5ab1b}{%
+           family={Anthony},
+           familyi={A\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{96f39277297b238934f2a89ddfa5ab1b}
+      \strng{fullhash}{96f39277297b238934f2a89ddfa5ab1b}
+      \strng{bibnamehash}{96f39277297b238934f2a89ddfa5ab1b}
+      \strng{authorbibnamehash}{96f39277297b238934f2a89ddfa5ab1b}
+      \strng{authornamehash}{96f39277297b238934f2a89ddfa5ab1b}
+      \strng{authorfullhash}{96f39277297b238934f2a89ddfa5ab1b}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{14}
+      \field{month}{1}
+      \field{title}{70 Relevant Analytics Statistics: 2021/2022}
+      \field{urlday}{7}
+      \field{urlmonth}{11}
+      \field{urlyear}{2022}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://financesonline.com/relevant-analytics-statistics/
+      \endverb
+      \verb{url}
+      \verb https://financesonline.com/relevant-analytics-statistics/
+      \endverb
+    \endentry
+    \entry{bac1}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e29e19bf4ebe3519e2d9d6e404ea1579}{%
+           family={{Best Accredited Colleges}},
+           familyi={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{e29e19bf4ebe3519e2d9d6e404ea1579}
+      \strng{fullhash}{e29e19bf4ebe3519e2d9d6e404ea1579}
+      \strng{bibnamehash}{e29e19bf4ebe3519e2d9d6e404ea1579}
+      \strng{authorbibnamehash}{e29e19bf4ebe3519e2d9d6e404ea1579}
+      \strng{authornamehash}{e29e19bf4ebe3519e2d9d6e404ea1579}
+      \strng{authorfullhash}{e29e19bf4ebe3519e2d9d6e404ea1579}
+      \field{extraname}{1}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labeldatesource}{nodate}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{What jobs are similar to business analysts?}
+      \field{urlday}{3}
+      \field{urlmonth}{11}
+      \field{urlyear}{2022}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://bestaccreditedcolleges.org/articles/careers-and-education/what-jobs-are-similar-to-business-analysts.html
+      \endverb
+      \verb{url}
+      \verb https://bestaccreditedcolleges.org/articles/careers-and-education/what-jobs-are-similar-to-business-analysts.html
+      \endverb
+    \endentry
+    \entry{bac2}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e29e19bf4ebe3519e2d9d6e404ea1579}{%
+           family={{Best Accredited Colleges}},
+           familyi={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{e29e19bf4ebe3519e2d9d6e404ea1579}
+      \strng{fullhash}{e29e19bf4ebe3519e2d9d6e404ea1579}
+      \strng{bibnamehash}{e29e19bf4ebe3519e2d9d6e404ea1579}
+      \strng{authorbibnamehash}{e29e19bf4ebe3519e2d9d6e404ea1579}
+      \strng{authornamehash}{e29e19bf4ebe3519e2d9d6e404ea1579}
+      \strng{authorfullhash}{e29e19bf4ebe3519e2d9d6e404ea1579}
+      \field{extraname}{2}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{20}
+      \field{month}{10}
+      \field{title}{Alternative Careers for Business Analysts}
+      \field{urlday}{3}
+      \field{urlmonth}{11}
+      \field{urlyear}{2022}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://bestaccreditedcolleges.org/articles/alternative-careers-for-business-analysts.html
+      \endverb
+      \verb{url}
+      \verb https://bestaccreditedcolleges.org/articles/alternative-careers-for-business-analysts.html
+      \endverb
+    \endentry
+    \entry{indian}{report}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=e40663ccd64cbaec624f1d2637baa16d}{%
+           family={Bhagat},
+           familyi={B\bibinitperiod},
+           given={L\bibnamedelima N},
+           giveni={L\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5e46d2eb3ca190e05320fb543796e970}{%
+           family={Gupta},
+           familyi={G\bibinitperiod},
+           given={S\bibnamedelima C},
+           giveni={S\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4063ee39bdf77ee4fc618923feb5e115}{%
+           family={Singh},
+           familyi={S\bibinitperiod},
+           given={S\bibnamedelima K},
+           giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b5705f10dbbae772ec90f9baf8fd2fec}{%
+           family={Agrawal},
+           familyi={A\bibinitperiod},
+           given={Ramakant},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=00d3f0a275bcfd5d043231be15c7cccc}{%
+           family={Bose},
+           familyi={B\bibinitperiod},
+           given={Indranil},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4ddd8d0e6cbcbff3af46c06d91db7d7b}{%
+           family={Purvey},
+           familyi={P\bibinitperiod},
+           given={Ramashish},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {ARISCOM}%
+      }
+      \strng{namehash}{957aa3d0b13144169c8898ea211b344f}
+      \strng{fullhash}{04c6a31b357cbab76d54d35b5b51bfac}
+      \strng{bibnamehash}{04c6a31b357cbab76d54d35b5b51bfac}
+      \strng{authorbibnamehash}{04c6a31b357cbab76d54d35b5b51bfac}
+      \strng{authornamehash}{957aa3d0b13144169c8898ea211b344f}
+      \strng{authorfullhash}{04c6a31b357cbab76d54d35b5b51bfac}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{5}
+      \field{isrn}{2581-9631}
+      \field{month}{6}
+      \field{pagetotal}{84}
+      \field{title}{Journal of Management}
+      \field{type}{resreport}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \field{pages}{70}
+      \range{pages}{1}
+    \endentry
+    \entry{72tools}{book}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=77b3d7ae15829c1d54f6636a147d494d}{%
+           family={Cadle},
+           familyi={C\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3c5471bebf3e19ceb901ed39edd59b92}{%
+           family={Paul},
+           familyi={P\bibinitperiod},
+           given={Debra},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9166bc1dc6c1e230ceef6e3566a43f32}{%
+           family={Turner},
+           familyi={T\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {British Informatics Society Ltd}%
+      }
+      \strng{namehash}{af916012786d43514b56aaf2a580d1fb}
+      \strng{fullhash}{93b4a7ff8b4764a81629cc62e2db5ebd}
+      \strng{bibnamehash}{93b4a7ff8b4764a81629cc62e2db5ebd}
+      \strng{authorbibnamehash}{93b4a7ff8b4764a81629cc62e2db5ebd}
+      \strng{authornamehash}{af916012786d43514b56aaf2a580d1fb}
+      \strng{authorfullhash}{93b4a7ff8b4764a81629cc62e2db5ebd}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-1-906124-23-6}
+      \field{pagetotal}{279}
+      \field{title}{Business Analysis Techniques - 72 Essential Tools for Success}
+      \field{year}{2010}
+      \field{dateera}{ce}
+    \endentry
+    \entry{nicole}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9ccbb1c233522e384c06d30abb61a8a3}{%
+           family={Swart},
+           familyi={S\bibinitperiod},
+           given={Nicole},
+           giveni={N\bibinitperiod},
+           givenun=0,
+           prefix={de},
+           prefixi={d\bibinitperiod}}}%
+      }
+      \strng{namehash}{9ccbb1c233522e384c06d30abb61a8a3}
+      \strng{fullhash}{9ccbb1c233522e384c06d30abb61a8a3}
+      \strng{bibnamehash}{9ccbb1c233522e384c06d30abb61a8a3}
+      \strng{authorbibnamehash}{9ccbb1c233522e384c06d30abb61a8a3}
+      \strng{authornamehash}{9ccbb1c233522e384c06d30abb61a8a3}
+      \strng{authorfullhash}{9ccbb1c233522e384c06d30abb61a8a3}
+      \field{sortinit}{d}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{20}
+      \field{month}{10}
+      \field{title}{Je rol als analist in scrum: 6 opties}
+      \field{urlday}{8}
+      \field{urlmonth}{11}
+      \field{urlyear}{2022}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.reaco.nl/blog/je-rol-als-analist-in-agile-6-opties/
+      \endverb
+      \verb{url}
+      \verb https://www.reaco.nl/blog/je-rol-als-analist-in-agile-6-opties/
+      \endverb
+    \endentry
+    \entry{agilestats}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7e1beb8fd0ecbba2164ea8b66aab5cee}{%
+           family={Djurovic},
+           familyi={D\bibinitperiod},
+           given={Ana},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{7e1beb8fd0ecbba2164ea8b66aab5cee}
+      \strng{fullhash}{7e1beb8fd0ecbba2164ea8b66aab5cee}
+      \strng{bibnamehash}{7e1beb8fd0ecbba2164ea8b66aab5cee}
+      \strng{authorbibnamehash}{7e1beb8fd0ecbba2164ea8b66aab5cee}
+      \strng{authornamehash}{7e1beb8fd0ecbba2164ea8b66aab5cee}
+      \strng{authorfullhash}{7e1beb8fd0ecbba2164ea8b66aab5cee}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{13}
+      \field{month}{1}
+      \field{title}{20+ Astonishing Agile Adoption Statistics for 2022}
+      \field{urlday}{7}
+      \field{urlmonth}{11}
+      \field{urlyear}{2022}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://goremotely.net/blog/agile-adoption/
+      \endverb
+      \verb{url}
+      \verb https://goremotely.net/blog/agile-adoption/
+      \endverb
+    \endentry
+    \entry{howmuch}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a31869eb7928df122ceb2f81e27d7e85}{%
+           family={Glassdoor},
+           familyi={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{a31869eb7928df122ceb2f81e27d7e85}
+      \strng{fullhash}{a31869eb7928df122ceb2f81e27d7e85}
+      \strng{bibnamehash}{a31869eb7928df122ceb2f81e27d7e85}
+      \strng{authorbibnamehash}{a31869eb7928df122ceb2f81e27d7e85}
+      \strng{authornamehash}{a31869eb7928df122ceb2f81e27d7e85}
+      \strng{authorfullhash}{a31869eb7928df122ceb2f81e27d7e85}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{13}
+      \field{month}{12}
+      \field{title}{How much does a Business Analyst make?}
+      \field{urlday}{3}
+      \field{urlmonth}{11}
+      \field{urlyear}{2022}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.glassdoor.com/Salaries/business-analyst-salary-SRCH_KO0,16.htm
+      \endverb
+      \verb{url}
+      \verb https://www.glassdoor.com/Salaries/business-analyst-salary-SRCH_KO0,16.htm
+      \endverb
+    \endentry
+    \entry{expertagile}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ce79ec59420311f7977dd04958c24a91}{%
+           family={Hailes},
+           familyi={H\bibinitperiod},
+           given={Jarett},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ce79ec59420311f7977dd04958c24a91}
+      \strng{fullhash}{ce79ec59420311f7977dd04958c24a91}
+      \strng{bibnamehash}{ce79ec59420311f7977dd04958c24a91}
+      \strng{authorbibnamehash}{ce79ec59420311f7977dd04958c24a91}
+      \strng{authornamehash}{ce79ec59420311f7977dd04958c24a91}
+      \strng{authorfullhash}{ce79ec59420311f7977dd04958c24a91}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Experts’ Take on Business Analysis and Agile}
+      \field{urlday}{8}
+      \field{urlmonth}{11}
+      \field{urlyear}{2022}
+      \field{year}{2010}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.modernanalyst.com/Resources/Articles/tabid/115/articleType/ArticleView/ArticleID/1302/PageID/1308/Default.aspx
+      \endverb
+      \verb{url}
+      \verb https://www.modernanalyst.com/Resources/Articles/tabid/115/articleType/ArticleView/ArticleID/1302/PageID/1308/Default.aspx
+      \endverb
+    \endentry
+    \entry{bang}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=8f0f95f0cb36b7a88dc1b22ba919fcbb}{%
+           family={Hoque},
+           familyi={H\bibinitperiod},
+           given={Kazi\bibnamedelima Saiful},
+           giveni={K\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{8f0f95f0cb36b7a88dc1b22ba919fcbb}
+      \strng{fullhash}{8f0f95f0cb36b7a88dc1b22ba919fcbb}
+      \strng{bibnamehash}{8f0f95f0cb36b7a88dc1b22ba919fcbb}
+      \strng{authorbibnamehash}{8f0f95f0cb36b7a88dc1b22ba919fcbb}
+      \strng{authornamehash}{8f0f95f0cb36b7a88dc1b22ba919fcbb}
+      \strng{authorfullhash}{8f0f95f0cb36b7a88dc1b22ba919fcbb}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{14}
+      \field{month}{6}
+      \field{title}{A brief History of Business Analysis}
+      \field{urlday}{3}
+      \field{urlmonth}{11}
+      \field{urlyear}{2022}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://bangladesh.iiba.org/news/brief-history-business-analysis
+      \endverb
+      \verb{url}
+      \verb https://bangladesh.iiba.org/news/brief-history-business-analysis
+      \endverb
+    \endentry
+    \entry{artagile}{book}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=31d1fe71d53f03a2ddacc52e7fe87cda}{%
+           family={Shore},
+           familyi={S\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3f61a4dd594c1be351420dc8b438a81d}{%
+           family={Larsen},
+           familyi={L\bibinitperiod},
+           given={Diana},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1b7b2e2a2a0511573e1dfec461c78f9b}{%
+           family={Klitgaard},
+           familyi={K\bibinitperiod},
+           given={Gitte},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5e4044a4c1a16ddcd0c36c0bf8ddf90a}{%
+           family={Warden},
+           familyi={W\bibinitperiod},
+           given={Shane},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d6451eade33dc389a67dd0a8a64f9bae}
+      \strng{fullhash}{6150fc9807b6eadd4716d763b5356788}
+      \strng{bibnamehash}{6150fc9807b6eadd4716d763b5356788}
+      \strng{authorbibnamehash}{6150fc9807b6eadd4716d763b5356788}
+      \strng{authornamehash}{d6451eade33dc389a67dd0a8a64f9bae}
+      \strng{authorfullhash}{6150fc9807b6eadd4716d763b5356788}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9781492080695}
+      \field{pagetotal}{540}
+      \field{title}{The Art of Agile Development (2nd edition)}
+      \field{year}{2021}
+      \field{dateera}{ce}
+    \endentry
+    \entry{agilebado}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=099f9afbc6d684a8c2aa0cd3919a9f1a}{%
+           family={Simplilearn},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{099f9afbc6d684a8c2aa0cd3919a9f1a}
+      \strng{fullhash}{099f9afbc6d684a8c2aa0cd3919a9f1a}
+      \strng{bibnamehash}{099f9afbc6d684a8c2aa0cd3919a9f1a}
+      \strng{authorbibnamehash}{099f9afbc6d684a8c2aa0cd3919a9f1a}
+      \strng{authornamehash}{099f9afbc6d684a8c2aa0cd3919a9f1a}
+      \strng{authorfullhash}{099f9afbc6d684a8c2aa0cd3919a9f1a}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{4}
+      \field{month}{11}
+      \field{title}{What does a Agile Business Analyst do: Definition, Skills and Role}
+      \field{urlday}{8}
+      \field{urlmonth}{11}
+      \field{urlyear}{2022}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.simplilearn.com/agile-business-analyst-article
+      \endverb
+      \verb{url}
+      \verb https://www.simplilearn.com/agile-business-analyst-article
+      \endverb
+    \endentry
+    \entry{step}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=31e2a889a7b0a4e0520027244c7ee3ca}{%
+           family={Stepstone},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{31e2a889a7b0a4e0520027244c7ee3ca}
+      \strng{fullhash}{31e2a889a7b0a4e0520027244c7ee3ca}
+      \strng{bibnamehash}{31e2a889a7b0a4e0520027244c7ee3ca}
+      \strng{authorbibnamehash}{31e2a889a7b0a4e0520027244c7ee3ca}
+      \strng{authornamehash}{31e2a889a7b0a4e0520027244c7ee3ca}
+      \strng{authorfullhash}{31e2a889a7b0a4e0520027244c7ee3ca}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labeldatesource}{nodate}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Bedrijfsanalist lonen in België}
+      \field{urlday}{3}
+      \field{urlmonth}{11}
+      \field{urlyear}{2022}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.stepstone.be/salaris/Bedrijfsanalist.html
+      \endverb
+      \verb{url}
+      \verb https://www.stepstone.be/salaris/Bedrijfsanalist.html
+      \endverb
+    \endentry
+    \entry{devba}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=91034ff4bce9ee7832e6b4ff232a1760}{%
+           family={Ye},
+           familyi={Y\bibinitperiod},
+           given={Kevin\bibnamedelimb Ang\bibnamedelima Qi},
+           giveni={K\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim Q\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{91034ff4bce9ee7832e6b4ff232a1760}
+      \strng{fullhash}{91034ff4bce9ee7832e6b4ff232a1760}
+      \strng{bibnamehash}{91034ff4bce9ee7832e6b4ff232a1760}
+      \strng{authorbibnamehash}{91034ff4bce9ee7832e6b4ff232a1760}
+      \strng{authornamehash}{91034ff4bce9ee7832e6b4ff232a1760}
+      \strng{authorfullhash}{91034ff4bce9ee7832e6b4ff232a1760}
+      \field{sortinit}{Y}
+      \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{28}
+      \field{month}{11}
+      \field{title}{Why Developers Hate BAs and What to Do About It}
+      \field{urlday}{7}
+      \field{urlmonth}{11}
+      \field{urlyear}{2022}
+      \field{year}{2016}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://kevin-moses-ang.medium.com/why-are-business-analysts-so-irritating-dedb0c0124d0
+      \endverb
+      \verb{url}
+      \verb https://kevin-moses-ang.medium.com/why-are-business-analysts-so-irritating-dedb0c0124d0
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
