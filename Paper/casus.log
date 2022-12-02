@@ -1,10 +1,10 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2022.2.21)  2 DEC 2022 12:14
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2022.2.21)  2 DEC 2022 23:03
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"c:/Users/Pieter/OneDrive - Hogeschool Gent/2022 - 2023 HOGENT/Semester 1/Business Analysis - CASUS backup/Paper/casus.tex"
-(c:/Users/Pieter/OneDrive - Hogeschool Gent/2022 - 2023 HOGENT/Semester 1/Business Analysis - CASUS backup/Paper/casus.tex
+**"c:/Users/Pieter/Documents/GitHub clones/casus/Paper/casus.tex"
+(c:/Users/Pieter/Documents/GitHub clones/casus/Paper/casus.tex
 LaTeX2e <2021-11-15> patch level 1
 L3 programming layer <2022-02-05> (./hogent-article.cls
 Document Class: hogent-article 2019/01/10 Artikel voor gebruik in de opleiding toegepaste informatica aan HOGENT
@@ -792,36 +792,36 @@ Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
 Package csquotes Info: Redefining alias 'default' -> 'dutch'.
-LaTeX Font Info:    Trying to load font information for T1+ptm on input line 39.
+LaTeX Font Info:    Trying to load font information for T1+ptm on input line 48.
  (c:/User data/texlive/2021/texmf-dist/tex/latex/psnfss/t1ptm.fd
 File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
 ) (./casus.aux)
 \openout1 = `casus.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 39.
-LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 39.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 48.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 48.
  (c:/User data/texlive/2021/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
@@ -857,7 +857,7 @@ LaTeX Font Info:    ... okay on input line 39.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package hyperref Info: Link coloring ON on input line 39.
+Package hyperref Info: Link coloring ON on input line 48.
 (c:/User data/texlive/2021/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
  (c:/User data/texlive/2021/texmf-dist/tex/latex/refcount/refcount.sty
@@ -867,9 +867,9 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count477
 )
-LaTeX Info: Redefining \ref on input line 39.
-LaTeX Info: Redefining \pageref on input line 39.
-LaTeX Info: Redefining \nameref on input line 39.
+LaTeX Info: Redefining \ref on input line 48.
+LaTeX Info: Redefining \pageref on input line 48.
+LaTeX Info: Redefining \nameref on input line 48.
  (./casus.out) (./casus.out)
 \@outlinefile=\write4
 \openout4 = `casus.out'.
@@ -878,7 +878,7 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
 Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             https://www.ctan.org/pkg/pageslts
-(lastpage)             ! on input line 39.
+(lastpage)             ! on input line 48.
 Package biblatex Info: Trying to load language 'dutch' -> 'dutch-apa'...
 Package biblatex Info: ... file 'dutch-apa.lbx' found.
  (c:/User data/texlive/2021/texmf-dist/tex/latex/biblatex-apa/dutch-apa.lbx
@@ -924,13 +924,13 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'casus.bbl' found.
  (./casus.bbl)
-Package biblatex Info: Reference section=0 on input line 39.
-Package biblatex Info: Reference segment=0 on input line 39.
-LaTeX Info: Redefining \microtypecontext on input line 39.
-Package microtype Info: Applying patch `item' on input line 39.
-Package microtype Info: Applying patch `toc' on input line 39.
-Package microtype Info: Applying patch `eqnum' on input line 39.
-Package microtype Info: Applying patch `footnote' on input line 39.
+Package biblatex Info: Reference section=0 on input line 48.
+Package biblatex Info: Reference segment=0 on input line 48.
+LaTeX Info: Redefining \microtypecontext on input line 48.
+Package microtype Info: Applying patch `item' on input line 48.
+Package microtype Info: Applying patch `toc' on input line 48.
+Package microtype Info: Applying patch `eqnum' on input line 48.
+Package microtype Info: Applying patch `footnote' on input line 48.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: No adjustment of tracking.
@@ -939,7 +939,7 @@ Package microtype Info: No adjustment of kerning.
  (c:/User data/texlive/2021/texmf-dist/tex/latex/microtype/mt-ptm.cfg
 File: mt-ptm.cfg 2006/04/20 v1.7 microtype config. file: Times (RS)
 )
-LaTeX Font Info:    Trying to load font information for OT1+ztmcm on input line 51.
+LaTeX Font Info:    Trying to load font information for OT1+ztmcm on input line 60.
  (c:/User data/texlive/2021/texmf-dist/tex/latex/psnfss/ot1ztmcm.fd
 File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
 )
@@ -947,28 +947,28 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `ztmcm' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-LaTeX Font Info:    Trying to load font information for OML+ztmcm on input line 51.
+LaTeX Font Info:    Trying to load font information for OML+ztmcm on input line 60.
  (c:/User data/texlive/2021/texmf-dist/tex/latex/psnfss/omlztmcm.fd
 File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
 )
-LaTeX Font Info:    Trying to load font information for OMS+ztmcm on input line 51.
+LaTeX Font Info:    Trying to load font information for OMS+ztmcm on input line 60.
  (c:/User data/texlive/2021/texmf-dist/tex/latex/psnfss/omsztmcm.fd
 File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
 )
-LaTeX Font Info:    Trying to load font information for OMX+ztmcm on input line 51.
+LaTeX Font Info:    Trying to load font information for OMX+ztmcm on input line 60.
  (c:/User data/texlive/2021/texmf-dist/tex/latex/psnfss/omxztmcm.fd
 File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
 )
-LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 51.
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 60.
  (c:/User data/texlive/2021/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 51.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 60.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 51.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 60.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 51.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 60.
  (c:/User data/texlive/2021/texmf-dist/tex/latex/microtype/mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 ) (c:/User data/texlive/2021/texmf-dist/tex/latex/microtype/mt-msb.cfg
@@ -976,7 +976,7 @@ File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 ) [1
 
 ]
-LaTeX Font Info:    Trying to load font information for T1+phv on input line 76.
+LaTeX Font Info:    Trying to load font information for T1+phv on input line 85.
  (c:/User data/texlive/2021/texmf-dist/tex/latex/psnfss/t1phv.fd
 File: t1phv.fd 2020/03/25 scalable font definitions for T1/phv.
 )
@@ -985,15 +985,15 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 76.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 85.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 76.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 85.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 76.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 85.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 76.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 85.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 76.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 85.
  (./casus.toc)
 \tf@toc=\write5
 \openout5 = `casus.toc'.
@@ -1003,10 +1003,7 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
 ]
 File: ./img/adamsmith.jpg Graphic file (type bmp)
 <./img/adamsmith.jpg>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 192.
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 201.
  (c:/User data/texlive/2021/texmf-dist/tex/latex/psnfss/ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 )
@@ -1016,46 +1013,49 @@ File: img/HOGENT_Logo_Pos_rgb.png Graphic file (type bmp)
 File: ./img/agileBA.jpg Graphic file (type bmp)
 <./img/agileBA.jpg>
 
-Overfull \hbox (0.1083pt too wide) in paragraph at lines 295--296
-[]\T1/ptm/m/n/10 Zou agile de-vel-op-ment zon-der een bu-si-ness ana-list kun-
- []
+Underfull \vbox (badness 1331) has occurred while \output is active []
 
 File: img/HOGENT_Logo_Pos_rgb.png Graphic file (type bmp)
 <img/HOGENT_Logo_Pos_rgb.png>
-[3]
-Overfull \hbox (1.62831pt too wide) in paragraph at lines 337--344
+ [3]
+Overfull \hbox (0.1083pt too wide) in paragraph at lines 304--305
+[]\T1/ptm/m/n/10 Zou agile de-vel-op-ment zon-der een bu-si-ness ana-list kun-
+ []
+
+
+Overfull \hbox (1.62831pt too wide) in paragraph at lines 346--353
 []\T1/ptm/m/n/10 Op ge-bied van bu-si-ness ana-lyse is de bij-ho-rende rol vooral
- []
-
-
-Overfull \hbox (1.00719pt too wide) in paragraph at lines 373--377
-[]\T1/ptm/m/n/10 Daarnaast valt een con-creet toe-ge-we-zen BA in agile teams
- []
-
-
-Overfull \hbox (9.4599pt too wide) in paragraph at lines 386--386
-[][]\T1/ptm/m/n/10 Anthony, J. (2022). 70 Re-le-vant Ana-ly-tics Sta-tis-tics: 2021/2022.
- []
-
-
-Overfull \hbox (11.34552pt too wide) in paragraph at lines 386--386
-\T1/ptm/m/n/10 Ver-kre-gen 7 no-vem-ber 2022, van [][]$https : / / ^^\nancesonline .
- []
-
-
-Overfull \hbox (5.25182pt too wide) in paragraph at lines 386--386
-[][]$\T1/ptm/m/n/10 https : / / bestaccreditedcolleges . org / articles / alternative -[]
  []
 
 File: img/HOGENT_Logo_Pos_rgb.png Graphic file (type bmp)
 <img/HOGENT_Logo_Pos_rgb.png>
 [4]
-Overfull \hbox (1.26532pt too wide) in paragraph at lines 386--386
+Overfull \hbox (1.00719pt too wide) in paragraph at lines 397--401
+[]\T1/ptm/m/n/10 Daarnaast valt een con-creet toe-ge-we-zen BA in agile teams
+ []
+
+
+Overfull \hbox (9.4599pt too wide) in paragraph at lines 410--410
+[][]\T1/ptm/m/n/10 Anthony, J. (2022). 70 Re-le-vant Ana-ly-tics Sta-tis-tics: 2021/2022.
+ []
+
+
+Overfull \hbox (11.34552pt too wide) in paragraph at lines 410--410
+\T1/ptm/m/n/10 Ver-kre-gen 7 no-vem-ber 2022, van [][]$https : / / ^^\nancesonline .
+ []
+
+
+Overfull \hbox (5.25182pt too wide) in paragraph at lines 410--410
+[][]$\T1/ptm/m/n/10 https : / / bestaccreditedcolleges . org / articles / alternative -[]
+ []
+
+
+Overfull \hbox (1.26532pt too wide) in paragraph at lines 410--410
 [][]\T1/ptm/m/n/10 Glassdoor. (2021). How much does a Bu-si-ness Ana-lyst make?
  []
 
 
-Overfull \hbox (14.8658pt too wide) in paragraph at lines 386--386
+Overfull \hbox (14.8658pt too wide) in paragraph at lines 410--410
 \T1/ptm/m/n/10 Ver-kre-gen 3 no-vem-ber 2022, van [][]$https : / / www . glassdoor .
  []
 
@@ -1064,9 +1064,7 @@ Missing character: There is no ’ ("2019) in font ptmr8t!
 AED: lastpage setting LastPage
 File: img/HOGENT_Logo_Pos_rgb.png Graphic file (type bmp)
 <img/HOGENT_Logo_Pos_rgb.png>
-[5
-
-] (./casus.aux)
+[5] (./casus.aux)
 Package rerunfilecheck Info: File `casus.out' has not changed.
 (rerunfilecheck)             Checksum: 443698A38BC010FEA06D731CFC9EAFEF;1318.
 Package logreq Info: Writing requests to 'casus.run.xml'.
@@ -1075,11 +1073,11 @@ Package logreq Info: Writing requests to 'casus.run.xml'.
  ) 
 Here is how much of TeX's memory you used:
  25942 strings out of 476182
- 461723 string characters out of 5808729
- 1430075 words of memory out of 5000000
+ 461543 string characters out of 5808729
+ 1429879 words of memory out of 5000000
  46296 multiletter control sequences out of 15000+600000
  532234 words of font info for 115 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 75i,12n,108p,1174b,5405s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 75i,11n,108p,1114b,5405s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on casus.xdv (6 pages, 56264 bytes).
+Output written on casus.xdv (6 pages, 60112 bytes).

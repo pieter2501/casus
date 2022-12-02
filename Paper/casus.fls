@@ -1,8 +1,8 @@
-PWD c:/Users/Pieter/OneDrive - Hogeschool Gent/2022 - 2023 HOGENT/Semester 1/Business Analysis - CASUS backup/Paper
+PWD c:/Users/Pieter/Documents/GitHub clones/casus/Paper
 INPUT c:/User data/texlive/2021/texmf.cnf
 INPUT c:/User data/texlive/2021/texmf-dist/web2c/texmf.cnf
 INPUT c:/User data/texlive/2021/texmf-var/web2c/xetex/xelatex.fmt
-INPUT c:/Users/Pieter/OneDrive - Hogeschool Gent/2022 - 2023 HOGENT/Semester 1/Business Analysis - CASUS backup/Paper/casus.tex
+INPUT c:/Users/Pieter/Documents/GitHub clones/casus/Paper/casus.tex
 OUTPUT casus.log
 INPUT ./hogent-article.cls
 INPUT ./hogent-article.cls
