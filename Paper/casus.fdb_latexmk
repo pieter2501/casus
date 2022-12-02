@@ -1,15 +1,15 @@
 # Fdb version 3
-["biber casus"] 1667925580 "casus.bcf" "casus.bbl" "casus" 1667925598
+["biber casus"] 1669936956 "casus.bcf" "casus.bbl" "casus" 1669979685
   "bibliografie.bib" 1667925562 3929 bb4c1b3d25b2bffe1151cdae84a65530 ""
-  "casus.bcf" 1667925595 124941 88887838ce34111029318718c1c5d13e "xelatex"
+  "casus.bcf" 1669979682 124941 88887838ce34111029318718c1c5d13e "xelatex"
   (generated)
   "casus.bbl"
   "casus.blg"
-["xdvipdfmx"] 1667925595 "casus.xdv" "casus.pdf" "casus" 1667925598
-  "casus.xdv" 1667925595 58300 37ca40e3a68f43ee536d96426389fdc5 "xelatex"
+["xdvipdfmx"] 1669979682 "casus.xdv" "casus.pdf" "casus" 1669979685
+  "casus.xdv" 1669979682 56264 a2ad6e33e6684b019960787c31cd6362 "xelatex"
   (generated)
   "casus.pdf"
-["xelatex"] 1667925591 "c:/Users/Pieter/Desktop/Business Analysis - CASUS/Paper/casus.tex" "casus.xdv" "casus" 1667925598
+["xelatex"] 1669979677 "c:/Users/Pieter/OneDrive - Hogeschool Gent/2022 - 2023 HOGENT/Semester 1/Business Analysis - CASUS backup/Paper/casus.tex" "casus.xdv" "casus" 1669979685
   "c:/User data/texlive/2021/texmf-dist/fonts/map/fontname/texfonts.map" 1645441411 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/User data/texlive/2021/texmf-dist/fonts/tfm/adobe/helvetic/phvb8t.tfm" 1645441700 6628 34c39492c0adc454c1c199922bba8363 ""
   "c:/User data/texlive/2021/texmf-dist/fonts/tfm/adobe/helvetic/phvr8t.tfm" 1645441700 7040 b2bd27e2bfe6f6948cbc3239cae7444f ""
@@ -17,6 +17,7 @@
   "c:/User data/texlive/2021/texmf-dist/fonts/tfm/adobe/times/ptmb8t.tfm" 1645444142 6880 f19b8995b61c334d78fc734065f6b4d4 ""
   "c:/User data/texlive/2021/texmf-dist/fonts/tfm/adobe/times/ptmr8c.tfm" 1645444142 1352 fa28a7e6d323c65ce7d13d5342ff6be2 ""
   "c:/User data/texlive/2021/texmf-dist/fonts/tfm/adobe/times/ptmr8t.tfm" 1645444142 6672 e3ab9e37e925f3045c9005e6d1473d56 ""
+  "c:/User data/texlive/2021/texmf-dist/fonts/tfm/adobe/times/ptmrc8t.tfm" 1645444142 16648 7e91c60ebf91b9c60e16ef52b3070f9c ""
   "c:/User data/texlive/2021/texmf-dist/fonts/tfm/adobe/times/ptmri7t.tfm" 1645444142 2288 f478fc8fed18759effb59f3dad7f3084 ""
   "c:/User data/texlive/2021/texmf-dist/fonts/tfm/adobe/times/ptmri8t.tfm" 1645444142 6944 94c55ad86e6ea2826f78ba2240d50df9 ""
   "c:/User data/texlive/2021/texmf-dist/fonts/tfm/adobe/times/zptmcm7m.tfm" 1645444142 2232 db256afffc8202da192b4641df14d602 ""
@@ -159,13 +160,13 @@
   "c:/User data/texlive/2021/texmf-dist/web2c/texmf.cnf" 1645439515 40042 fe981136cbb5f3715ab1b0e46e3d3892 ""
   "c:/User data/texlive/2021/texmf-var/web2c/xetex/xelatex.fmt" 1645444847 5132039 f27b987af0ece5355b25e93f45531819 ""
   "c:/User data/texlive/2021/texmf.cnf" 1645444688 713 e69b156964470283e0530f5060668171 ""
-  "c:/Users/Pieter/Desktop/Business Analysis - CASUS/Paper/casus.tex" 1667925571 26008 0eaa49871d8307f3afd2471d41aaf946 ""
-  "casus.aux" 1667925595 4599 a6c780ed8b7ead0e24094118893d06b5 "xelatex"
-  "casus.bbl" 1667925583 22650 71a3271d920e05e6405e404c958621d4 "biber casus"
-  "casus.out" 1667925595 1207 e225cbcef1a8873e0a82c3f4a0aa3296 "xelatex"
-  "casus.run.xml" 1667925595 2533 22eab9eb87c13f60053dcdc162b1d1da "xelatex"
-  "casus.tex" 1667925571 26008 0eaa49871d8307f3afd2471d41aaf946 ""
-  "casus.toc" 1667925595 718 ee01c15a9cbcc76e5fa60a1f3238b883 "xelatex"
+  "c:/Users/Pieter/OneDrive - Hogeschool Gent/2022 - 2023 HOGENT/Semester 1/Business Analysis - CASUS backup/Paper/casus.tex" 1669979675 25193 ab7d021428baf4df5da544d6fc2642b4 ""
+  "casus.aux" 1669979682 4620 41f35ab42da6af9aa9c25a62e3ad6645 "xelatex"
+  "casus.bbl" 1669936959 22650 71a3271d920e05e6405e404c958621d4 "biber casus"
+  "casus.out" 1669979682 1318 443698a38bc010fea06d731cfc9eafef "xelatex"
+  "casus.run.xml" 1669979682 2533 22eab9eb87c13f60053dcdc162b1d1da "xelatex"
+  "casus.tex" 1669979675 25193 ab7d021428baf4df5da544d6fc2642b4 ""
+  "casus.toc" 1669979682 739 3a10bb21255ebe0b8d3dce224289df34 "xelatex"
   "hogent-article.cls" 1667499616 8152 55acd5d2c3a3c406d56e517e111b5450 ""
   "img/HOGENT_Logo_Pos_rgb.png" 1656402623 70624 3207a4e86f2866685f0c83efa2291369 ""
   "img/adamsmith.jpg" 1667498905 51023 cb19d5486a99d77c803ca43add177691 ""

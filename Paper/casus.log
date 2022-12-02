@@ -1,10 +1,10 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2022.2.21)  8 NOV 2022 17:39
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2022.2.21)  2 DEC 2022 12:14
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"c:/Users/Pieter/Desktop/Business Analysis - CASUS/Paper/casus.tex"
-(c:/Users/Pieter/Desktop/Business Analysis - CASUS/Paper/casus.tex
+**"c:/Users/Pieter/OneDrive - Hogeschool Gent/2022 - 2023 HOGENT/Semester 1/Business Analysis - CASUS backup/Paper/casus.tex"
+(c:/Users/Pieter/OneDrive - Hogeschool Gent/2022 - 2023 HOGENT/Semester 1/Business Analysis - CASUS backup/Paper/casus.tex
 LaTeX2e <2021-11-15> patch level 1
 L3 programming layer <2022-02-05> (./hogent-article.cls
 Document Class: hogent-article 2019/01/10 Artikel voor gebruik in de opleiding toegepaste informatica aan HOGENT
@@ -998,9 +998,6 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
 \tf@toc=\write5
 \openout5 = `casus.toc'.
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
  [1
 
 ]
@@ -1026,30 +1023,39 @@ Overfull \hbox (0.1083pt too wide) in paragraph at lines 295--296
 File: img/HOGENT_Logo_Pos_rgb.png Graphic file (type bmp)
 <img/HOGENT_Logo_Pos_rgb.png>
 [3]
-File: img/HOGENT_Logo_Pos_rgb.png Graphic file (type bmp)
-<img/HOGENT_Logo_Pos_rgb.png>
- [4]
-Overfull \hbox (9.4599pt too wide) in paragraph at lines 357--357
+Overfull \hbox (1.62831pt too wide) in paragraph at lines 337--344
+[]\T1/ptm/m/n/10 Op ge-bied van bu-si-ness ana-lyse is de bij-ho-rende rol vooral
+ []
+
+
+Overfull \hbox (1.00719pt too wide) in paragraph at lines 373--377
+[]\T1/ptm/m/n/10 Daarnaast valt een con-creet toe-ge-we-zen BA in agile teams
+ []
+
+
+Overfull \hbox (9.4599pt too wide) in paragraph at lines 386--386
 [][]\T1/ptm/m/n/10 Anthony, J. (2022). 70 Re-le-vant Ana-ly-tics Sta-tis-tics: 2021/2022.
  []
 
 
-Overfull \hbox (11.34552pt too wide) in paragraph at lines 357--357
+Overfull \hbox (11.34552pt too wide) in paragraph at lines 386--386
 \T1/ptm/m/n/10 Ver-kre-gen 7 no-vem-ber 2022, van [][]$https : / / ^^\nancesonline .
  []
 
 
-Overfull \hbox (5.25182pt too wide) in paragraph at lines 357--357
+Overfull \hbox (5.25182pt too wide) in paragraph at lines 386--386
 [][]$\T1/ptm/m/n/10 https : / / bestaccreditedcolleges . org / articles / alternative -[]
  []
 
-
-Overfull \hbox (1.26532pt too wide) in paragraph at lines 357--357
+File: img/HOGENT_Logo_Pos_rgb.png Graphic file (type bmp)
+<img/HOGENT_Logo_Pos_rgb.png>
+[4]
+Overfull \hbox (1.26532pt too wide) in paragraph at lines 386--386
 [][]\T1/ptm/m/n/10 Glassdoor. (2021). How much does a Bu-si-ness Ana-lyst make?
  []
 
 
-Overfull \hbox (14.8658pt too wide) in paragraph at lines 357--357
+Overfull \hbox (14.8658pt too wide) in paragraph at lines 386--386
 \T1/ptm/m/n/10 Ver-kre-gen 3 no-vem-ber 2022, van [][]$https : / / www . glassdoor .
  []
 
@@ -1058,20 +1064,22 @@ Missing character: There is no ’ ("2019) in font ptmr8t!
 AED: lastpage setting LastPage
 File: img/HOGENT_Logo_Pos_rgb.png Graphic file (type bmp)
 <img/HOGENT_Logo_Pos_rgb.png>
-[5] (./casus.aux)
+[5
+
+] (./casus.aux)
 Package rerunfilecheck Info: File `casus.out' has not changed.
-(rerunfilecheck)             Checksum: E225CBCEF1A8873E0A82C3F4A0AA3296;1207.
+(rerunfilecheck)             Checksum: 443698A38BC010FEA06D731CFC9EAFEF;1318.
 Package logreq Info: Writing requests to 'casus.run.xml'.
 \openout1 = `casus.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 25938 strings out of 476182
- 461501 string characters out of 5808729
- 1428882 words of memory out of 5000000
- 46293 multiletter control sequences out of 15000+600000
- 528096 words of font info for 114 fonts, out of 8000000 for 9000
+ 25942 strings out of 476182
+ 461723 string characters out of 5808729
+ 1430075 words of memory out of 5000000
+ 46296 multiletter control sequences out of 15000+600000
+ 532234 words of font info for 115 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 75i,12n,108p,1118b,5405s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 75i,12n,108p,1174b,5405s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on casus.xdv (6 pages, 58300 bytes).
+Output written on casus.xdv (6 pages, 56264 bytes).
