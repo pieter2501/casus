@@ -1,15 +1,15 @@
 # Fdb version 3
-["biber casus"] 1670018094 "casus.bcf" "casus.bbl" "casus" 1670018599
+["biber casus"] 1670018094 "casus.bcf" "casus.bbl" "casus" 1670103243
   "bibliografie.bib" 1667925562 3929 bb4c1b3d25b2bffe1151cdae84a65530 ""
-  "casus.bcf" 1670018596 124941 88887838ce34111029318718c1c5d13e "xelatex"
+  "casus.bcf" 1670103241 124941 88887838ce34111029318718c1c5d13e "xelatex"
   (generated)
   "casus.bbl"
   "casus.blg"
-["xdvipdfmx"] 1670018596 "casus.xdv" "casus.pdf" "casus" 1670018599
-  "casus.xdv" 1670018596 60112 66d6618ced7376551fd7ef7e1d24a516 "xelatex"
+["xdvipdfmx"] 1670103241 "casus.xdv" "casus.pdf" "casus" 1670103243
+  "casus.xdv" 1670103241 60040 092dfac17e3c20331380077c5f29d294 "xelatex"
   (generated)
   "casus.pdf"
-["xelatex"] 1670018591 "c:/Users/Pieter/Documents/GitHub clones/casus/Paper/casus.tex" "casus.xdv" "casus" 1670018599
+["xelatex"] 1670103237 "c:/Users/Pieter/Documents/GitHub clones/casus/Paper/casus.tex" "casus.xdv" "casus" 1670103243
   "c:/User data/texlive/2021/texmf-dist/fonts/map/fontname/texfonts.map" 1645441411 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/User data/texlive/2021/texmf-dist/fonts/tfm/adobe/helvetic/phvb8t.tfm" 1645441700 6628 34c39492c0adc454c1c199922bba8363 ""
   "c:/User data/texlive/2021/texmf-dist/fonts/tfm/adobe/helvetic/phvr8t.tfm" 1645441700 7040 b2bd27e2bfe6f6948cbc3239cae7444f ""
@@ -160,13 +160,13 @@
   "c:/User data/texlive/2021/texmf-dist/web2c/texmf.cnf" 1645439515 40042 fe981136cbb5f3715ab1b0e46e3d3892 ""
   "c:/User data/texlive/2021/texmf-var/web2c/xetex/xelatex.fmt" 1645444847 5132039 f27b987af0ece5355b25e93f45531819 ""
   "c:/User data/texlive/2021/texmf.cnf" 1645444688 713 e69b156964470283e0530f5060668171 ""
-  "c:/Users/Pieter/Documents/GitHub clones/casus/Paper/casus.tex" 1670018590 28115 c93927ca0693b2e5040f9daa14d2e608 ""
-  "casus.aux" 1670018596 4620 babd922b2b5a5316271985ebfa0ff80b "xelatex"
+  "c:/Users/Pieter/Documents/GitHub clones/casus/Paper/casus.tex" 1670103236 28054 976fec6af1b2f27e8ccf5d3bc3d76441 ""
+  "casus.aux" 1670103241 4620 babd922b2b5a5316271985ebfa0ff80b "xelatex"
   "casus.bbl" 1670018103 22650 71a3271d920e05e6405e404c958621d4 "biber casus"
-  "casus.out" 1670018596 1318 443698a38bc010fea06d731cfc9eafef "xelatex"
-  "casus.run.xml" 1670018596 2533 22eab9eb87c13f60053dcdc162b1d1da "xelatex"
-  "casus.tex" 1670018590 28115 c93927ca0693b2e5040f9daa14d2e608 ""
-  "casus.toc" 1670018596 739 d7c069593ae75ee95708e8805503516b "xelatex"
+  "casus.out" 1670103241 1318 443698a38bc010fea06d731cfc9eafef "xelatex"
+  "casus.run.xml" 1670103241 2533 22eab9eb87c13f60053dcdc162b1d1da "xelatex"
+  "casus.tex" 1670103236 28054 976fec6af1b2f27e8ccf5d3bc3d76441 ""
+  "casus.toc" 1670103241 739 d7c069593ae75ee95708e8805503516b "xelatex"
   "hogent-article.cls" 1667499616 8152 55acd5d2c3a3c406d56e517e111b5450 ""
   "img/HOGENT_Logo_Pos_rgb.png" 1656402623 70624 3207a4e86f2866685f0c83efa2291369 ""
   "img/adamsmith.jpg" 1667498905 51023 cb19d5486a99d77c803ca43add177691 ""
